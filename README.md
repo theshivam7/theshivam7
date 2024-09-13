@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shivam Sharma 🍁</h1>
 <h3 align="center">Undergraduate student at IIT Madras 🎓</h3>
 
-- 🎓 I’m currently doing intern on **BITS Pilani GOA Campus**
+- 🎓 I’m currently doing Research Internship at **BITS Pilani GOA Campus**
 
 - 🌱 At the moment, I'm actively involved in the **Applied Data Science Lab project**
 
