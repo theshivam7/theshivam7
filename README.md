@@ -1,68 +1,55 @@
-<div align="center">
+<h1>Hi, I'm Shivam Sharma 👋</h1>
+<p><strong>AI/ML Engineer · Researcher · Full-Stack Developer</strong></p>
 
-```
- _____ _     _
-/  ___| |   (_)
-\ `--.| |__  ___   ____ _ _ __ ___
- `--. \ '_ \| \ \ / / _` | '_ ` _ \
-/\__/ / | | | |\ V / (_| | | | | | |
-\____/|_| |_|_| \_/ \__,_|_| |_| |_|
-```
+<img align='right' src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200">
 
-### building things at the intersection of AI and video
+<p>
+  <em>AI/ML Engineer at <a href="https://videodb.io"><strong>VideoDB</strong></a></em>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1200&color=6E40C9&center=true&vCenter=true&width=600&lines=AI+Engineer+%40+VideoDB;Researcher+%7C+NTU+Singapore+%26+BITS+Pilani+Goa;Working+on+multimodal+AI+%26+LLMs;Making+video+as+queryable+as+text" alt="Typing SVG" />
-
-</div>
+[![Twitter Follow](https://img.shields.io/twitter/follow/thexshivam?label=Follow&style=flat-square)](https://twitter.com/intent/follow?screen_name=thexshivam)
+[![LinkedIn](https://img.shields.io/badge/-theshivam7-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/theshivam7)
+[![GitHub followers](https://img.shields.io/github/followers/theshivam7?label=Follow&style=social)](https://github.com/theshivam7)
+[![Website](https://img.shields.io/badge/Website-46a2f1?style=flat-square&logo=Google-Chrome&logoColor=white)](https://theshivam.site)
+[![Profile Views](https://komarev.com/ghpvc/?username=theshivam7&style=flat-square&color=6E40C9)](https://github.com/theshivam7)
 
 ---
 
-<table align="center">
-<tr>
-<td align="center" width="50%">
+### 👇 Hit this in your terminal to connect with me
 
-**Now**
-Building video AI infra at [VideoDB](https://videodb.io) —
-search, index, and query video like a database.
-
-</td>
-<td align="center" width="50%">
-
-**Before**
-Research at **NTU Singapore** and **BITS Pilani Goa** —
-NLP, applied ML, and multimodal systems.
-
-</td>
-</tr>
-</table>
+```bash
+npx theshivam7
+```
 
 ---
 
-<div align="center">
+### 🤖 A little more about me...
 
-**Stack**
+```javascript
+const shivam = {
+  role:              "AI/ML Engineer @ VideoDB",
+  research:          ["NTU Singapore", "BITS Pilani Goa"],
+  interests:         ["LLMs", "Multimodal AI", "Video AI", "RAG", "Evaluation"],
+  stack:             ["Python", "TypeScript", "Node.js", "React", "MongoDB"],
+  currentlyBuilding: "video AI infra — making video searchable & queryable like a database",
+  askMeAbout:        ["AI agents", "video understanding", "eval pipelines", "full-stack"],
+  funFact:           "I fine-tuned a model before my morning coffee once. Never again."
+};
+```
+
+---
+
+### 🛠️ Tech I work with
 
 <img src="https://skillicons.dev/icons?i=python,ts,nodejs,react,mongodb,postgres,docker,git&theme=light" />
 
-</div>
-
 ---
 
-<div align="center">
+<em>I love connecting with people working at the edge of AI — say hi anytime!</em> 😊
 
-**Currently exploring** &nbsp;→&nbsp; `RAG` &nbsp;·&nbsp; `Video LLMs` &nbsp;·&nbsp; `Agentic pipelines` &nbsp;·&nbsp; `Evaluation frameworks`
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=About.me&logoColor=white)](https://theshivam.site)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/theshivam7)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/thexshivam)
+[![VideoDB](https://img.shields.io/badge/VideoDB-6E40C9?style=flat-square&logoColor=white)](https://videodb.io)
 
-</div>
-
----
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://theshivam.site)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/theshivam7)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/thexshivam)
-[![VideoDB](https://img.shields.io/badge/VideoDB-6E40C9?style=for-the-badge&logoColor=white)](https://videodb.io)
-
-<img src="https://komarev.com/ghpvc/?username=theshivam7&style=for-the-badge&color=6E40C9&label=PROFILE+VIEWS" />
-
-</div>
+![footer](https://capsule-render.vercel.app/api?type=transparent&height=60&section=footer)
