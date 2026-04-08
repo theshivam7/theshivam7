@@ -13,15 +13,6 @@
 [![Website](https://img.shields.io/badge/Website-46a2f1?style=flat-square&logo=Google-Chrome&logoColor=white)](https://theshivam.site)
 [![Profile Views](https://komarev.com/ghpvc/?username=theshivam7&style=flat-square&color=6E40C9)](https://github.com/theshivam7)
 
----
-
-### 👇 Hit this in your terminal to connect with me
-
-```bash
-npx theshivam7
-```
-
----
 
 ### 🤖 A little more about me...
 
@@ -50,6 +41,5 @@ const shivam = {
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=About.me&logoColor=white)](https://theshivam.site)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/theshivam7)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/thexshivam)
-[![VideoDB](https://img.shields.io/badge/VideoDB-6E40C9?style=flat-square&logoColor=white)](https://videodb.io)
 
 ![footer](https://capsule-render.vercel.app/api?type=transparent&height=60&section=footer)
