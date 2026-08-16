@@ -1,51 +1,58 @@
 <div align="center">
 
-# Hi, I'm Shivam 👋
+# Shivam Sharma
 
-**AI/ML Engineer** &nbsp;·&nbsp; LLMs, Multimodal & Video AI
+<a href="https://theshivam.online">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=8B5CF6&center=true&vCenter=true&width=620&lines=AI%2FML+Researcher+%26+Software+Engineer;NLP+%C2%B7+Speech+AI+%C2%B7+GenAI;Building+AI+for+Indian+languages;Open+to+new+opportunities" />
+</a>
 
-<a href="https://theshivam.online"><img src="https://img.shields.io/badge/Portfolio-6E40C9?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-<a href="https://linkedin.com/in/theshivam7"><img src="https://img.shields.io/badge/LinkedIn-6E40C9?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/thexshivam"><img src="https://img.shields.io/badge/X-6E40C9?style=for-the-badge&logo=x&logoColor=white" /></a>
-<a href="mailto:shivam.klt77@gmail.com"><img src="https://img.shields.io/badge/Email-6E40C9?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<br>
+
+<a href="https://theshivam.online"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+<a href="https://linkedin.com/in/theshivam7"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/thexshivam"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" /></a>
+<a href="https://kaggle.com/theshivam7"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" /></a>
+<a href="https://orcid.org/0009-0001-8814-0723"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white" /></a>
+<a href="mailto:shivam.klt77@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 
 </div>
 
----
+<br>
 
-<img align="right" width="230" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" width="240" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-### 🧠 About me
+### `~ whoami`
 
 ```js
 const shivam = {
-  role:       "AI/ML Engineer",
+  base:       "IIT Madras, India",
+  focus:      ["NLP", "Speech AI", "GenAI"],
+  buildingFor:"Indian languages",
+  lastShipped:"video AI infra @ VideoDB",
   status:     "open to new opportunities",
-  lastBuilt:  "video AI infra @ VideoDB",
-  research:   ["NTU Singapore", "BITS Pilani Goa"],
-  interests:  ["LLMs", "Multimodal AI", "RAG", "Evaluation"],
-  askMeAbout: ["AI agents", "video understanding", "eval pipelines"],
   funFact:    "fine-tuned a model before morning coffee. never again."
 };
 ```
 
 <br clear="right" />
 
-### 💼 Experience
+### `~ cat experience`
 
-| Role | Where | When |
-|:--|:--|:--|
-| Software Engineer Intern | **VideoDB** | Jan 2026 - Apr 2026 |
-| Research | **NTU Singapore** | |
-| Research | **BITS Pilani Goa** | |
+> **VideoDB** &nbsp;·&nbsp; Software Engineer Intern &nbsp;·&nbsp; `Jan 2026 - Apr 2026`
+> Video AI infrastructure. Making video searchable and queryable like a database.
 
-### 🛠️ Tech I work with
+> **NTU Singapore** &nbsp;·&nbsp; Research
 
-<img src="https://skillicons.dev/icons?i=python,ts,nodejs,react,postgres,mongodb,docker,git&theme=light" />
+> **BITS Pilani Goa** &nbsp;·&nbsp; Research
 
-<div align="center">
+### `~ ls toolkit`
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,ts,nodejs,react,postgres,mongodb,docker,git,linux&theme=dark" />
+
 <br>
 
-*Building at the edge of AI. Say hi anytime.* 😊
+<div align="center">
+
+*Building at the edge of AI. Say hi anytime.*
 
 </div>
