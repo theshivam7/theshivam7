@@ -1,31 +1,51 @@
-## Shivam Sharma
+<div align="center">
 
-**AI/ML Engineer** · LLMs, multimodal and video AI
+# Hi, I'm Shivam 👋
 
-I build systems that make unstructured data useful: retrieval pipelines, evaluation harnesses, and the full-stack glue around them. Most recently I worked on video AI infrastructure, making video searchable and queryable like a database.
+**AI/ML Engineer** &nbsp;·&nbsp; LLMs, Multimodal & Video AI
 
-**Open to new opportunities.** If you're working on applied AI, I'd like to hear from you.
+<a href="https://theshivam.online"><img src="https://img.shields.io/badge/Portfolio-6E40C9?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+<a href="https://linkedin.com/in/theshivam7"><img src="https://img.shields.io/badge/LinkedIn-6E40C9?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/thexshivam"><img src="https://img.shields.io/badge/X-6E40C9?style=for-the-badge&logo=x&logoColor=white" /></a>
+<a href="mailto:shivam.klt77@gmail.com"><img src="https://img.shields.io/badge/Email-6E40C9?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
+</div>
+
+---
+
+<img align="right" width="230" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+
+### 🧠 About me
+
+```js
+const shivam = {
+  role:       "AI/ML Engineer",
+  status:     "open to new opportunities",
+  lastBuilt:  "video AI infra @ VideoDB",
+  research:   ["NTU Singapore", "BITS Pilani Goa"],
+  interests:  ["LLMs", "Multimodal AI", "RAG", "Evaluation"],
+  askMeAbout: ["AI agents", "video understanding", "eval pipelines"],
+  funFact:    "fine-tuned a model before morning coffee. never again."
+};
+```
+
+<br clear="right" />
+
+### 💼 Experience
+
+| Role | Where | When |
+|:--|:--|:--|
+| Software Engineer Intern | **VideoDB** | Jan 2026 - Apr 2026 |
+| Research | **NTU Singapore** | |
+| Research | **BITS Pilani Goa** | |
+
+### 🛠️ Tech I work with
+
+<img src="https://skillicons.dev/icons?i=python,ts,nodejs,react,postgres,mongodb,docker,git&theme=light" />
+
+<div align="center">
 <br>
 
-### Experience
+*Building at the edge of AI. Say hi anytime.* 😊
 
-**VideoDB** · Software Engineer Intern · *Jan 2026 to Apr 2026*
-
-**NTU Singapore** · Research
-
-**BITS Pilani Goa** · Research
-
-<br>
-
-### Working with
-
-`Python` `TypeScript` `Node.js` `React` `PostgreSQL` `MongoDB` `Docker`
-
-Interested in LLMs, multimodal AI, video understanding, RAG, and evaluation.
-
-<br>
-
-### Elsewhere
-
-[Portfolio](https://theshivam.online) · [LinkedIn](https://linkedin.com/in/theshivam7) · [X](https://twitter.com/thexshivam) · [Email](mailto:shivam.klt77@gmail.com)
+</div>
