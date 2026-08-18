@@ -15,7 +15,7 @@
 
 <br>
 
-<img align="right" width="230" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img align="right" width="230" src="assets/dev.gif" />
 
 ### `~ whoami`
 
