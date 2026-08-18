@@ -13,27 +13,42 @@
 
 </div>
 
-<img align="right" width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<br>
+
+<img align="right" width="230" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ### `~ whoami`
 
 ```js
 const shivam = {
-  focus:   ["NLP", "Speech AI", "GenAI"],
-  status:  "open to new opportunities",
-  shipped: "video AI infra @ VideoDB",
-  funFact: "fine-tuned a model before coffee. never again."
+  base:        "IIT Madras, India",
+  focus:       ["NLP", "Speech AI", "GenAI"],
+  buildingFor: "Indian languages",
+  lastShipped: "video AI infra @ VideoDB",
+  status:      "open to new opportunities",
+  funFact:     "fine-tuned a model before coffee. never again."
 };
 ```
+
+<br clear="right" />
 
 ### `~ cat experience`
 
 > **VideoDB** &nbsp;·&nbsp; Software Engineer Intern &nbsp;·&nbsp; `Jan 2026 - Apr 2026`
-> **NTU Singapore** &nbsp;·&nbsp; Research
-> **BITS Pilani Goa** &nbsp;·&nbsp; Research
+> Video AI infrastructure. Making video searchable and queryable like a database.
 
-<br clear="right" />
+> **NTU Singapore** &nbsp;·&nbsp; Research
+
+> **BITS Pilani Goa** &nbsp;·&nbsp; Research
 
 ### `~ ls toolkit`
 
 <img src="https://skillicons.dev/icons?i=python,pytorch,ts,nodejs,react,postgres,mongodb,docker,git,linux&theme=dark" />
+
+<br>
+
+<div align="center">
+
+*Building at the edge of AI. Say hi anytime.*
+
+</div>
