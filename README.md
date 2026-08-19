@@ -15,7 +15,7 @@
 
 <br>
 
-<img align="right" width="230" src="assets/dev.gif" />
+<img align="right" width="230" src="https://raw.githubusercontent.com/theshivam7/theshivam7/main/assets/dev.gif" />
 
 ### `~ whoami`
 
