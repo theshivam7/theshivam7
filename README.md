@@ -11,11 +11,11 @@
 <a href="https://orcid.org/0009-0001-8814-0723"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white" /></a>
 <a href="mailto:shivam.klt77@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 
-</div>
-
 <br>
 
-<img align="right" width="230" src="https://raw.githubusercontent.com/theshivam7/theshivam7/main/assets/dev.gif" />
+<img width="260" src="https://raw.githubusercontent.com/theshivam7/theshivam7/main/assets/dev.gif" />
+
+</div>
 
 ### `~ whoami`
 
@@ -29,8 +29,6 @@ const shivam = {
   funFact:     "fine-tuned a model before coffee. never again."
 };
 ```
-
-<br clear="right" />
 
 ### `~ cat experience`
 
