@@ -8,8 +8,6 @@
 <a href="https://linkedin.com/in/theshivam7"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
 <a href="https://twitter.com/thexshivam"><img src="https://img.shields.io/badge/X-181717?style=flat-square&logo=x&logoColor=white" /></a>
 <a href="https://kaggle.com/theshivam7"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" /></a>
-<a href="https://orcid.org/0009-0001-8814-0723"><img src="https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white" /></a>
-<a href="mailto:shivam.klt77@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
 
 </div>
 
@@ -29,12 +27,16 @@ const shivam = {
 
 ### `~ cat experience`
 
-> **VideoDB** &nbsp;·&nbsp; Software Engineer Intern &nbsp;·&nbsp; `Jan 2026 - Apr 2026` <br>
-> **NTU Singapore** &nbsp;·&nbsp; Research <br>
-> **BITS Pilani Goa** &nbsp;·&nbsp; Research
+<img src="https://img.shields.io/badge/VideoDB-8B5CF6?style=flat-square&logoColor=white" />&nbsp; **Software Engineer Intern** &nbsp;·&nbsp; `Jan 2026 - Apr 2026` <br>
+<img src="https://img.shields.io/badge/NTU_Singapore-475569?style=flat-square&logoColor=white" />&nbsp; Research <br>
+<img src="https://img.shields.io/badge/BITS_Pilani_Goa-475569?style=flat-square&logoColor=white" />&nbsp; Research
 
 <br clear="right" />
 
 ### `~ ls toolkit`
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,ts,nodejs,react,postgres,mongodb,docker,git,linux&theme=dark" />
+`AI/ML` &nbsp; <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+
+`Web` &nbsp; <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/React-087EA4?style=flat-square&logo=react&logoColor=white" />
+
+`Data & Infra` &nbsp; <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
