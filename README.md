@@ -1,13 +1,11 @@
 <div align="center">
 
-# Shivam Sharma
+<img src="https://raw.githubusercontent.com/theshivam7/theshivam7/main/assets/banner.svg" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=800&color=8B5CF6&center=true&vCenter=true&width=560&height=32&lines=AI%2FML+Researcher+%26+Software+Engineer;NLP+%C2%B7+Speech+AI+%C2%B7+GenAI;Building+AI+for+Indian+languages;Open+to+new+opportunities" />
-
-<a href="https://theshivam.online"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=flat-square&logo=googlechrome&logoColor=white" /></a>
-<a href="https://linkedin.com/in/theshivam7"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/thexshivam"><img src="https://img.shields.io/badge/X-181717?style=flat-square&logo=x&logoColor=white" /></a>
-<a href="https://kaggle.com/theshivam7"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" /></a>
+<a href="https://theshivam.online"><img src="https://img.shields.io/badge/Portfolio-15171B?style=flat-square&logo=googlechrome&logoColor=white" /></a>
+<a href="https://linkedin.com/in/theshivam7"><img src="https://img.shields.io/badge/LinkedIn-15171B?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="https://twitter.com/thexshivam"><img src="https://img.shields.io/badge/X-15171B?style=flat-square&logo=x&logoColor=white" /></a>
+<a href="https://kaggle.com/theshivam7"><img src="https://img.shields.io/badge/Kaggle-15171B?style=flat-square&logo=kaggle&logoColor=white" /></a>
 
 </div>
 
@@ -25,12 +23,12 @@ const shivam = {
 
 **Experience**
 
-<img src="https://img.shields.io/badge/VideoDB-Software_Engineer_Intern-8B5CF6?style=flat-square&labelColor=1F2937" /><br>
-<img src="https://img.shields.io/badge/NTU_Singapore-Research-475569?style=flat-square&labelColor=1F2937" /><br>
-<img src="https://img.shields.io/badge/BITS_Pilani_Goa-Research-475569?style=flat-square&labelColor=1F2937" />
+<img src="https://img.shields.io/badge/VideoDB-Software_Engineer_Intern-1E4FD8?style=flat-square&labelColor=15171B" /><br>
+<img src="https://img.shields.io/badge/NTU_Singapore-Research-6B6B6B?style=flat-square&labelColor=15171B" /><br>
+<img src="https://img.shields.io/badge/BITS_Pilani_Goa-Research-6B6B6B?style=flat-square&labelColor=15171B" />
 
 <br clear="right" />
 
 **Stack**
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/React-087EA4?style=flat-square&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Python-2A2D34?style=flat-square&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/PyTorch-2A2D34?style=flat-square&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/TypeScript-2A2D34?style=flat-square&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-2A2D34?style=flat-square&logo=nodedotjs&logoColor=white" /> <img src="https://img.shields.io/badge/React-2A2D34?style=flat-square&logo=react&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-2A2D34?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-2A2D34?style=flat-square&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2A2D34?style=flat-square&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-2A2D34?style=flat-square&logo=linux&logoColor=white" />
