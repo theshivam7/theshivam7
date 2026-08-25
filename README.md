@@ -11,21 +11,21 @@
 
 <img align="right" width="190" src="https://raw.githubusercontent.com/theshivam7/theshivam7/main/assets/dev.gif" />
 
-```js
-const shivam = {
-  focus:   ["NLP", "Speech AI", "GenAI"],
-  base:    "IIT Madras · building for Indian languages",
-  shipped: "video AI infra @ VideoDB",
-  status:  "open to new opportunities",
-  funFact: "fine-tuned a model before coffee. never again."
-};
+```python
+class Shivam:
+    role     = "AI/ML Researcher & Software Engineer"
+    focus    = ["NLP", "Speech AI", "GenAI"]
+    base     = "IIT Madras · building for Indian languages"
+    shipped  = "video AI infra @ VideoDB"
+    status   = "open to new opportunities"
+    fun_fact = "fine-tuned a model before coffee. never again."
 ```
 
 **Experience**
 
 <img src="https://img.shields.io/badge/VideoDB-Software_Engineer_Intern-1E4FD8?style=flat-square&labelColor=15171B" /><br>
-<img src="https://img.shields.io/badge/NTU_Singapore-Research-6B6B6B?style=flat-square&labelColor=15171B" /><br>
-<img src="https://img.shields.io/badge/BITS_Pilani_Goa-Research-6B6B6B?style=flat-square&labelColor=15171B" />
+<img src="https://img.shields.io/badge/NTU_Singapore-Research_Intern-6B6B6B?style=flat-square&labelColor=15171B" /><br>
+<img src="https://img.shields.io/badge/BITS_Pilani_Goa-Research_Intern-6B6B6B?style=flat-square&labelColor=15171B" />
 
 <br clear="right" />
 
