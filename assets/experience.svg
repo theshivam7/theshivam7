@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 760 122" width="760" height="122" role="img" aria-label="Experience">
+<style>
+.org  { font: 600 15px "Helvetica Neue",Helvetica,Arial,sans-serif; fill:#15171B; }
+.role { font: 400 12.5px "SF Mono",Menlo,Consolas,monospace; fill:#6B6B6B; letter-spacing:.3px; }
+@media (prefers-color-scheme: dark) {
+  .org  { fill:#E6EAF2; }
+  .role { fill:#8A93A5; }
+}
+</style>
+<rect x="0" y="17" width="3" height="15" rx="1.5" fill="#1E4FD8"/>
+<text class="org"  x="16"  y="28">VideoDB</text>
+<text class="role" x="176" y="28">Software Engineer Intern</text>
+<rect x="0" y="51" width="3" height="15" rx="1.5" fill="#8A93A5"/>
+<text class="org"  x="16"  y="62">NTU Singapore</text>
+<text class="role" x="176" y="62">Research Intern</text>
+<rect x="0" y="85" width="3" height="15" rx="1.5" fill="#8A93A5"/>
+<text class="org"  x="16"  y="96">BITS Pilani Goa</text>
+<text class="role" x="176" y="96">Research Intern</text>
+</svg>

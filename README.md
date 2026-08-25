@@ -2,10 +2,10 @@
 
 <img src="https://raw.githubusercontent.com/theshivam7/theshivam7/main/assets/banner.svg" width="100%" />
 
-<a href="https://theshivam.online"><img src="https://img.shields.io/badge/Portfolio-15171B?style=flat-square&logo=googlechrome&logoColor=white" /></a>
-<a href="https://linkedin.com/in/theshivam7"><img src="https://img.shields.io/badge/LinkedIn-15171B?style=flat-square&logo=linkedin&logoColor=white" /></a>
-<a href="https://twitter.com/thexshivam"><img src="https://img.shields.io/badge/X-15171B?style=flat-square&logo=x&logoColor=white" /></a>
-<a href="https://kaggle.com/theshivam7"><img src="https://img.shields.io/badge/Kaggle-15171B?style=flat-square&logo=kaggle&logoColor=white" /></a>
+<a href="https://theshivam.online"><img src="https://img.shields.io/badge/Portfolio-FCFCFA?style=flat-square&logo=googlechrome&logoColor=1E4FD8" /></a>
+<a href="https://linkedin.com/in/theshivam7"><img src="https://img.shields.io/badge/LinkedIn-FCFCFA?style=flat-square&logo=linkedin&logoColor=0A66C2" /></a>
+<a href="https://twitter.com/thexshivam"><img src="https://img.shields.io/badge/X-FCFCFA?style=flat-square&logo=x&logoColor=15171B" /></a>
+<a href="https://kaggle.com/theshivam7"><img src="https://img.shields.io/badge/Kaggle-FCFCFA?style=flat-square&logo=kaggle&logoColor=20BEFF" /></a>
 
 </div>
 
@@ -23,9 +23,7 @@ class Shivam:
 
 **Experience**
 
-<img src="https://img.shields.io/badge/VideoDB-Software_Engineer_Intern-1E4FD8?style=flat-square&labelColor=15171B" /><br>
-<img src="https://img.shields.io/badge/NTU_Singapore-Research_Intern-6B6B6B?style=flat-square&labelColor=15171B" /><br>
-<img src="https://img.shields.io/badge/BITS_Pilani_Goa-Research_Intern-6B6B6B?style=flat-square&labelColor=15171B" />
+<img src="https://raw.githubusercontent.com/theshivam7/theshivam7/main/assets/experience.svg" width="500" />
 
 <br clear="right" />
 
