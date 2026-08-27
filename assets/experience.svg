@@ -1,16 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 96" width="520" height="96" role="img" aria-label="Experience">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 580 108" width="580" height="108" role="img" aria-label="Experience">
 <style>
-.org  { font: 600 14.5px "Helvetica Neue",Helvetica,Arial,sans-serif; fill:#15171B; }
-.role { font: 400 12px "SF Mono",Menlo,Consolas,monospace; fill:#6B6B6B; }
+.org  { font: 600 17px "Helvetica Neue",Helvetica,Arial,sans-serif; fill:#15171B; }
+.role { font: 400 14px "SF Mono",Menlo,Consolas,monospace; fill:#6B6B6B; }
 @media (prefers-color-scheme: dark) { .org { fill:#E6EAF2; } .role { fill:#8A93A5; } }
 </style>
-<rect x="0" y="9" width="3" height="14" rx="1.5" fill="#1E4FD8"/>
-<text class="org"  x="13"  y="20">VideoDB</text>
-<text class="role" x="168" y="20">Software Engineer Intern</text>
-<rect x="0" y="39" width="3" height="14" rx="1.5" fill="#8A93A5"/>
-<text class="org"  x="13"  y="50">NTU Singapore</text>
-<text class="role" x="168" y="50">Research Intern</text>
-<rect x="0" y="69" width="3" height="14" rx="1.5" fill="#8A93A5"/>
-<text class="org"  x="13"  y="80">BITS Pilani Goa</text>
-<text class="role" x="168" y="80">Research Intern</text>
+<rect x="0" y="8" width="3.5" height="17" rx="1.75" fill="#1E4FD8"/>
+<text class="org"  x="16"  y="21">VideoDB</text>
+<text class="role" x="200" y="21">Software Engineer Intern</text>
+<rect x="0" y="44" width="3.5" height="17" rx="1.75" fill="#8A93A5"/>
+<text class="org"  x="16"  y="57">NTU Singapore</text>
+<text class="role" x="200" y="57">Research Intern</text>
+<rect x="0" y="80" width="3.5" height="17" rx="1.75" fill="#8A93A5"/>
+<text class="org"  x="16"  y="93">BITS Pilani Goa</text>
+<text class="role" x="200" y="93">Research Intern</text>
 </svg>

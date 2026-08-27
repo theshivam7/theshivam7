@@ -18,7 +18,7 @@ class Shivam:
 
 **Experience**
 
-<img src="https://raw.githubusercontent.com/theshivam7/theshivam7/main/assets/experience.svg" width="520" />
+<img src="https://raw.githubusercontent.com/theshivam7/theshivam7/main/assets/experience.svg" width="580" />
 
 <br clear="right" />
 
